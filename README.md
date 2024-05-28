@@ -1,3 +1,6 @@
+Sure! Here is the updated README with the personalized GitHub profile links:
+
+```markdown
 # Safe Wheels 🚗
 
 Welcome to **Safe Wheels**, your go-to car rental app! This README provides an overview of the project, its tech stack, and installation instructions. Safe Wheels offers a seamless and user-friendly experience for renting cars, with a robust backend for login, signup, and authorization.
@@ -16,7 +19,6 @@ Welcome to **Safe Wheels**, your go-to car rental app! This README provides an o
 
 - **User Authentication:** Secure login and signup functionality.
 - **Car Listings:** Browse and search available cars for rent.
-- **Booking Management:** Easy booking process and management.
 
 ## Installation Guide 🛠️
 
@@ -67,13 +69,14 @@ Make sure you have the following installed on your system:
 
 
 
----
-
 Thank you for choosing Safe Wheels! Happy driving! 🚙✨
 
 ---
 
 *This README was generated with ❤️ by Safe Wheels Team.*
 
-- **Backend and Authorization Developer:** Aayush Gupta
-- **Frontend Developer:** Riya Motwani
+- **Backend and Authorization Developer:** Aayush Gupta [GitHub](https://github.com/aayush2761)
+- **Frontend Developer:** Riya Motwani [GitHub](https://github.com/Riya21motwani)
+```
+
+Feel free to replace `yourusername` in the clone command with your actual GitHub username or the repository path if needed.
