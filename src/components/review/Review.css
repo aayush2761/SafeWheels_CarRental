@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+.rcontainer {
+    width: 80%;
+    min-height: 30%;
+    margin-top: 15%;
+    margin-left: 25%;
+    
+
+
+  }
+  
+  .heading {
+    margin-left: 15%;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .task {
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+  .task p {
+    font-weight: bold;
+    margin-bottom: 5px;
+    
+  }
+  
+  .deleteBtn {
+    background-color: #fe8e38;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 15px 20px; /* Adjust padding as needed */
+    border-radius: 50%;
+  }
+  
+  .deleteBtn:hover {
+    background-color: #feb175;
+  }
+  
+  .review {
+    margin-top: 20px;
+  }
+  
+  .review input,
+  .review button {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px ;
+    margin-left: 15%;
+  }
+  
+  .review input[type="text"] {
+    padding: 15px; /* Increase padding for input */
+    width: 300px; /* Increase width of input */
+}
+  .review button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-left: 23%;
+    
+  }
+  
+  .review button:hover {
+    background-color: #45a049;
+  }
+  

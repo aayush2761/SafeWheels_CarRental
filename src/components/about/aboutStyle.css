@@ -1,0 +1,56 @@
+.about-page {
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 5%;
+    margin-bottom: 10px;
+  }
+  .maincontainer{
+    display: flex;
+    flex-direction: row;
+  }
+
+.car-image {
+  width: 100%;
+  max-width: 400px; 
+  margin: 20px 0;
+}
+
+.about-page h1 {
+  color: #333;
+  text-align: center;
+}
+  .about-page h2 {
+    color: #333;
+  }
+  
+  .about-page h3 {
+    color: #555;
+  }
+  
+  .about-page p {
+    margin-bottom: 15px;
+    line-height: 1.5;
+  }
+  
+  .about-page ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .about-page ul li {
+    margin-bottom: 5px;
+  }
+  
+  .about-page a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .about-page a:hover {
+    text-decoration: underline;
+  }
+  
