@@ -1,6 +1,4 @@
-Sure! Here is the updated README with the personalized GitHub profile links:
 
-```markdown
 # Safe Wheels 🚗
 
 Welcome to **Safe Wheels**, your go-to car rental app! This README provides an overview of the project, its tech stack, and installation instructions. Safe Wheels offers a seamless and user-friendly experience for renting cars, with a robust backend for login, signup, and authorization.
@@ -59,7 +57,7 @@ Make sure you have the following installed on your system:
    ```bash
    npm install
    ```
-
+   
 3. **Start the backend server:**
    ```bash
    npm start
@@ -68,6 +66,7 @@ Make sure you have the following installed on your system:
    The backend will be running on `http://localhost:5000`.
 
 
+---
 
 Thank you for choosing Safe Wheels! Happy driving! 🚙✨
 
@@ -78,5 +77,3 @@ Thank you for choosing Safe Wheels! Happy driving! 🚙✨
 - **Backend and Authorization Developer:** Aayush Gupta [GitHub](https://github.com/aayush2761)
 - **Frontend Developer:** Riya Motwani [GitHub](https://github.com/Riya21motwani)
 ```
-
-Feel free to replace `yourusername` in the clone command with your actual GitHub username or the repository path if needed.
