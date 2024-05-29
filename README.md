@@ -31,7 +31,7 @@ Make sure you have the following installed on your system:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/safe-wheels.git
-   cd safe-wheels/frontend
+   cd safe-wheels
    ```
 
 2. **Install dependencies:**
@@ -50,7 +50,7 @@ Make sure you have the following installed on your system:
 
 1. **Navigate to the backend directory:**
    ```bash
-   cd safe-wheels/backend
+   cd safe-wheels/server
    ```
 
 2. **Install dependencies:**
