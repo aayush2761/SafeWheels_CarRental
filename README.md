@@ -70,8 +70,4 @@ Make sure you have the following installed on your system:
 
 Thank you for choosing Safe Wheels! Happy driving! 🚙✨
 
----
 
-- **Backend and Authorization Developer:** Aayush Gupta [GitHub](https://github.com/aayush2761)
-- **Frontend Developer:** Riya Motwani [GitHub](https://github.com/Riya21motwani)
-```
